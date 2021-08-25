@@ -1,0 +1,52 @@
+.product {
+    min-width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.productName {
+    font-style: oblique;
+    font-variant: traditional;
+}
+
+.topBar {
+    display: flex;
+}
+
+.productList {
+    height: 300px;
+    margin: 25px;
+    width: 29%;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius: 8px;
+}
+
+.all {
+    display: flex;
+    background-color: #ffc165;
+    border-color: blanchedalmond;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+.cart {
+    display: flex;
+    background-color: blanchedalmond;
+    border-color: blanchedalmond;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+.productButton {
+    display: flex;
+    background-color: blanchedalmond;
+    border-color: blanchedalmond;
+    border-radius: 5px;
+    margin: 2px;
+    margin-left: 35%
+}
+
+.productimage {
+    width: 60%;
+}

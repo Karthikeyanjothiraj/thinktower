@@ -1,0 +1,41 @@
+.cartpage {
+    min-width: 100%;
+    height: 100%;
+}
+.userProfile {
+    display: flex;
+    flex-wrap: wrap;
+}
+.cartImage{
+    width: 75%;
+}
+.cartdetail {
+    display: flex;
+    margin: 2%;
+    
+}
+.cartList{
+    width: 29%;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius: 8px;
+
+}
+.back{
+    font-style: italic;
+}
+.productName {
+    font-style: oblique;
+    font-variant: traditional;
+}
+
+.blink_me {
+    animation: blinker 1s linear infinite;
+    font-size: larger;
+    padding-top: 25%;
+    font-weight: 800;
+  }
+  @keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+  }

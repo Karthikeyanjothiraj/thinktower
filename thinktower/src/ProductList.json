@@ -1,0 +1,85 @@
+{
+    "productsList": [{
+            "id": "1",
+            "name": "Samsung Galaxy Note 10",
+            "category": "Mobiles",
+            "country": "Canada",
+            "price": 11500,
+            "currencyCode": "CAD",
+            "productImage": "./productimg/product1.jpg",
+            "quantity": 0,
+            "isAdded": false
+        },
+        {
+            "id": 5,
+            "name": "SkullCandy BT Inkd Plus",
+            "category": "Bluetooth Headset",
+            "country": "UK",
+            "price": 800,
+            "productImage": "./productimg/product1.jpg",
+            "quantity": 0,
+            "isAdded": false
+        },
+        {
+            "id": 13,
+            "name": "Anker Soundbuds Rise",
+            "category": "Bluetooth Headset",
+            "country": "Canada",
+            "price": 600,
+            "productImage": "./productimg/product1.jpg",
+            "quantity": 0,
+            "isAdded": false
+        },
+        {
+            "id": 8,
+            "name": "JBL Flip 3 Bluetooth speaker",
+            "category": "Speakers",
+            "country": "India",
+            "price": 1400,
+            "productImage": "./productimg/product1.jpg",
+            "quantity": 0,
+            "isAdded": false
+        },
+        {
+            "id": 10,
+            "name": "Conekt Volt Power Bank",
+            "category": "Power Bank",
+            "country": "China",
+            "price": 650,
+            "productImage": "./productimg/product1.jpg",
+            "quantity": 0,
+            "isAdded": false
+        },
+        {
+            "id": 18,
+            "name": "Apple Watch Series",
+            "category": "Watch",
+            "country": "China",
+            "price": 640,
+            "productImage": "./productimg/product1.jpg",
+            "quantity": 0,
+            "isAdded": false
+        },
+        {
+            "id": 20,
+            "name": "IBall Slide Spirit X2",
+            "category": "Tablets",
+            "country": "India",
+            "price": 9000,
+            "currencyCode": "INR",
+            "productImage": "./productimg/product1.jpg",
+            "quantity": 0,
+            "isAdded": false
+        },
+        {
+            "id": 22,
+            "name": "Skullcandy Set 2.0 ",
+            "category": "Headset",
+            "country": "China",
+            "price": 900,
+            "productImage": "./productimg/product1.jpg",
+            "quantity": 0,
+            "isAdded": false
+        }
+    ]
+}
